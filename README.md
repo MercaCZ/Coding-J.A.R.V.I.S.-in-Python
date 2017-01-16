@@ -5,15 +5,15 @@
 This project...
 
 ## Used engines
-List of...
+List of engines used in this Project...
 
 ### Code
-*Python*
+* *Python*
 
 #### Config
-.conf file
+* *CONF* file
+* *SQLite*
 
 ### Databases
-MariaDB (MySQL)
-
-SQLite
+* *MariaDB (MySQL)*
+* *SQLite*
