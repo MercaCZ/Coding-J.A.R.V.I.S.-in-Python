@@ -17,3 +17,6 @@ List of engines used in this Project...
 ### Databases
 * *MariaDB (MySQL)*
 * *SQLite*
+
+### Encoding
+* *Base64*
