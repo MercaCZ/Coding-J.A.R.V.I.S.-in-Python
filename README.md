@@ -15,4 +15,5 @@ PYTHON
 
 ### Databases
 MariaDB (MySQL)
+
 SQLite
