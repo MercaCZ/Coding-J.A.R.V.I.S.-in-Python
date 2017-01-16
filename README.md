@@ -11,7 +11,7 @@ List of engines used in this Project...
 * *Python*
 
 ### Config
-* *CONF* file
+* *CONF* text-file
 * *SQLite*
 
 ### Databases
